@@ -4,7 +4,7 @@ Java coded fun, mini-game
 
 # About
 
-Compete with differant cars,
+Compete with different cars,
 Win coins and use them for buying new cars
 
 # Usage
